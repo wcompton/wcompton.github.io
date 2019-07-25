@@ -3,12 +3,21 @@
   text-align: center;
 }
 .section {
+  font-weight: bold;
   text-decoration: underline;
   text-transform: uppercase;
 }
 .employer {
+  font-weight: bold;
   text-decoration: underline;
 }
 .title {
  
+}
+.list3{
+  ul {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
 }
