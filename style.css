@@ -14,8 +14,6 @@
 .title {
  
 }
-.list3{
-  ul {
+.list3 {
     column-count: 3;
-}
 }
