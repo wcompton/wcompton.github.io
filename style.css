@@ -2,3 +2,13 @@
 .top {
   text-align: center;
 }
+.section {
+  text-align: center;
+  text-transform: uppercase;
+}
+.employer {
+  text-decoration: underline;
+}
+.title {
+  text-decoration: underline;
+}
