@@ -22,15 +22,15 @@
   ttext-align: left;
 }
 .list3 {  
-  padding-block:auto;
   background-color: skyblue;
+  padding-block:auto;
   column-count: 3;
 }
 body {
   background-color: black;
 }
 .description{
-  padding-block:auto;
   background-color: skyblue;
+  padding-block:auto;
   text-align: left;
 }
