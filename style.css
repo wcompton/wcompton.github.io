@@ -21,8 +21,10 @@
   padding-block:auto;
   ttext-align: left;
 }
-.list3 {
-    column-count: 3;
+.list3 {  
+  padding-block:auto;
+  background-color: skyblue;
+  column-count: 3;
 }
 body {
   background-color: black;
