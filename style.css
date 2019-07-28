@@ -2,8 +2,9 @@
 .class {
   float: right;
   width: 50%;
-  text-decoration: cyan;
+  text-decoration: white;
   text-align: center;
+  font-size: 80%;
 }
 img {
   float: left;
