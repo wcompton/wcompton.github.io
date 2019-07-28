@@ -12,11 +12,15 @@
   text-decoration: underline;
 }
 .title {
+  background-color:#1245a8;
  
 }
 .list3 {
     column-count: 3;
 }
 body {
+  background-color: black;
+}
+.descrition{
   background-color: skyblue;
 }
