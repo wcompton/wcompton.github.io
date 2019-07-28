@@ -3,6 +3,10 @@
   text-decoration-color: cyan;
   text-align: center;
 }
+img {
+  border-radius: 50%;
+  margin-left: 0
+}
 .section {
   background-color:lightblue; 
   padding-block:auto;
