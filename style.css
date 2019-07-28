@@ -4,13 +4,13 @@
 }
 .section {
   background-color:lightblue; 
-  padding:10px,10,10px,10px,10px;
+  padding-block:auto;
   font-weight: bold;
   text-decoration: underline;
   text-transform: uppercase;
 }
 .employer {
-  padding:10px,10,10px,10px,10px;
+  padding-block:auto;
   font-weight: bold;
   text-decoration: underline;
   background-color:cyan; 
@@ -26,8 +26,8 @@
 body {
   background-color: black;
 }
-.descrition{
-  padding:10px,10,10px,10px,10px;
+.description{
+  padding-block:auto;
   background-color: skyblue;
   text-align: left;
 }
