@@ -1,11 +1,14 @@
 
 header {
+  float: right;
+  width: 50%;
   text-decoration: cyan;
   text-align: center;
 }
 img {
+  float: left;
+  width: 50%;
   border-radius: 50%;
-  margin-left: 0;
   width: 100px;
   height: 100px;
 }
