@@ -1,5 +1,5 @@
 
-.top {
+#top {
   text-decoration-color: cyan;
   text-align: center;
 }
@@ -19,18 +19,19 @@
 .title {
   background-color:#1245a8;
   padding-block:auto;
-  ttext-align: left;
+  text-align: left;
 }
 .list3 {  
   background-color: skyblue;
   padding-block:auto;
   column-count: 3;
 }
-body {
-  background-color: black;
-}
 .description{
   background-color: skyblue;
   padding-block:auto;
   text-align: left;
+}
+
+body {
+  background-color: black;
 }
