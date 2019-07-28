@@ -16,9 +16,9 @@
   background-color:cyan; 
 }
 .title {
-  padding:10px,10,10px,10px,10px;
-  background-color:#1245a8; 
-  text-align: left;
+  background-color:#1245a8;
+  padding-block:auto;
+  ttext-align: left;
 }
 .list3 {
     column-count: 3;
