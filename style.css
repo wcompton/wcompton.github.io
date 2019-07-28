@@ -30,6 +30,7 @@ img {
   background-color: skyblue;
   padding-block:auto;
   column-count: 3;
+  text-align: left;
 }
 .description{
   background-color: skyblue;
