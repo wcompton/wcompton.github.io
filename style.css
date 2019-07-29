@@ -2,8 +2,6 @@
   column: 2;
 }
 .name {
-  float: right;
-  width: 50%;
   color: #ffffff;
   text-align: center;
   font-size: extra-large;
@@ -11,9 +9,6 @@
 }
 img {
   image-rendering: smooth;
-  margin-bottom: 2em;
-  float: left;
-  width: 50%;
   border-radius: 50%;
   width: 150px;
   height: 150px;
