@@ -2,7 +2,7 @@
   column: 2;
 }
 .name {
-  text-decoration: #ffffff;
+  color: #ffffff;
   text-align: center;
   font-size: 80%;
   background-color: black;
@@ -33,7 +33,7 @@ img {
   background-color:#1245a8;
   padding-block:auto;
   text-align: left;
-  text-decoration: lightblue; 
+  color: lightblue; 
 }
 .list3 {  
   background-color: skyblue;
