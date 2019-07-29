@@ -10,6 +10,7 @@
   background-color: black;
 }
 img {
+  padding-block: auto;
   float: left;
   width: 50%;
   border-radius: 50%;
