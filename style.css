@@ -1,13 +1,11 @@
-
+#top{
+  column: 2;
+}
 .headshot {
-  float: left;
-  width: 50%;
   margin-left: auto;
   margin-right: auto;
 }
 .name {
-  float: right;
-  width: 50%;
   text-decoration: white;
   text-align: center;
   font-size: 80%;
