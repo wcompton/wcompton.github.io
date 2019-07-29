@@ -10,7 +10,8 @@
   background-color: black;
 }
 img {
-  margin-bottom: 2em
+  image-rendering: smooth;
+  margin-bottom: 2em;
   float: left;
   width: 50%;
   border-radius: 50%;
