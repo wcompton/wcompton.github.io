@@ -6,7 +6,7 @@
   margin-right: auto;
 }
 .name {
-  text-decoration: white;
+  text-decoration: #ffffff;
   text-align: center;
   font-size: 80%;
   background-color: black;
@@ -48,7 +48,6 @@ img {
   padding-block:auto;
   text-align: left;
 }
-
 body {
   background-color: black;
 }
